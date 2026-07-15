@@ -4,25 +4,26 @@
 
 ### CNN
 
-#### [code/mnist.py](https://github.com/rkuo2000/AI-exercise/blob/main/code/mnist.py)
+#### `CNN` [code/mnist.py](https://github.com/rkuo2000/AI-exercise/blob/main/code/mnist.py)
 
-#### [CNN_EuroSAT.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/CNN_EuroSAT.ipynb)
+#### `CNN` [CNN_EuroSAT.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/CNN_EuroSAT.ipynb)
 
 ---
 ### ResNet
 
-#### [ResNet50_COVID_19_Detection.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/ResNet50_COVID_19_Detection.ipynb)
+#### `ResNet50` [ResNet50_COVID_19_Detection.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/ResNet50_COVID_19_Detection.ipynb)
 
-#### [ResNet50_Wafer_Map_Recognition.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/ResNet50_Wafer_Map_Recognition.ipynb)
+#### `ResNet50` [ResNet50_Wafer_Map_Recognition.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/ResNet50_Wafer_Map_Recognition.ipynb)
 
 #### [ResNet EuroSAT](https://www.kaggle.com/code/rkuo2000/eurosat-classification)
 
-Visual-Transformer#### [Steel Defect Detection](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
+### ViT (Visual-Transformer)
+#### `ViT` [Steel Defect Detection](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
 
 ---
 ### ViT (Visual Transformer)
 
-#### [ViT Wafer Defect Recognition](https://www.kaggle.com/code/rkuo2000/wafer-defect-recognition-vit)
+#### `kaggle` [ViT Wafer Defect Recognition](https://www.kaggle.com/code/rkuo2000/wafer-defect-recognition-vit)
 
 ---
 ## Object Detection
@@ -34,70 +35,72 @@ Visual-Transformer#### [Steel Defect Detection](https://www.kaggle.com/code/rkuo
 * Oriented Detection
 * Classification
 
-### YOLO26: [code/cam_yolo.py](https://github.com/rkuo2000/AI-exercise/blob/main/code/cam_yolo.py) 
+### YOLOv26
+
+#### `code` [code/cam_yolo.py](https://github.com/rkuo2000/AI-exercise/blob/main/code/cam_yolo.py) 
 ![](https://cdn.jsdelivr.net/gh/ultralytics/assets@main/docs/Ultralytics-YOLO26-Benchmark.jpg)
 
 ---
 ### YOLOv7
 
-#### [YOLOv7_Tanks.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/YOLOv7_Tanks.ipynb)
+#### `colab` [YOLOv7_Tanks.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/YOLOv7_Tanks.ipynb)
 
-#### [YOLOv7-Tanks](https://www.kaggle.com/code/rkuo2000/yolov7-tanks)
+#### `kaggle` [YOLOv7-Tanks](https://www.kaggle.com/code/rkuo2000/yolov7-tanks)
 
-#### [YOLOv7-Sushi](https://www.kaggle.com/code/rkuo2000/yolov7-sushi)
+#### `kaggle` [YOLOv7-Sushi](https://www.kaggle.com/code/rkuo2000/yolov7-sushi)
 
-#### [YOLOv7-RefrigFood](https://www.kaggle.com/code/rkuo2000/yolov7-refrigfood)
+#### `kaggle` [YOLOv7-RefrigFood](https://www.kaggle.com/code/rkuo2000/yolov7-refrigfood)
 
 ---
 ### SAM2 (Segment Anything 2)
 
-#### [SAM2 Image](https://www.kaggle.com/code/rkuo2000/sam2-image)
+#### `kaggle` [SAM2 Image](https://www.kaggle.com/code/rkuo2000/sam2-image)
 
 ---
 ## Voice/Speech
 
 ### Text-To-Speech (TTS)
 
-#### [TTS_Kokoro82M.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/TTS_Kokoro82M.ipynb)
+#### `kaggle` [TTS_Kokoro82M.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/TTS_Kokoro82M.ipynb)
 
-#### [Index-TTS2](https://www.kaggle.com/code/rkuo2000/index-tts2)
+#### `kaggle` [Index-TTS2](https://www.kaggle.com/code/rkuo2000/index-tts2)
 
-#### [Spark-TTS](https://www.kaggle.com/code/rkuo2000/spark-tts)
+#### `kaggle` [Spark-TTS](https://www.kaggle.com/code/rkuo2000/spark-tts)
 
 ---
 ### Speech-To-Text (STT/ASR)
 
-#### [ASR Whisper](https://www.kaggle.com/code/rkuo2000/asr-whisper)
+#### `kaggle` [ASR Whisper](https://www.kaggle.com/code/rkuo2000/asr-whisper)
 
-#### [Whisper large-v3 turbo](https://www.kaggle.com/code/rkuo2000/whisper-large-v3-turbo)
+#### `kaggle` [Whisper large-v3 turbo](https://www.kaggle.com/code/rkuo2000/whisper-large-v3-turbo)
 
-#### [Faster Whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
+#### `kaggle` [Faster Whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
 
 ---
 ## LLM
 
 ### From-Scratch
 
-#### [Llama4 from scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
+#### `kaggle` [Llama4 from scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
 
-#### [Llama from scratch](https://www.kaggle.com/code/rkuo2000/llama-from-scratch)
+#### `kaggle` [Llama from scratch](https://www.kaggle.com/code/rkuo2000/llama-from-scratch)
 
 ---
 ### Fine-Tune
 
-#### `Colab` [Finetune Llama-3 with LLaMA Factory](https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing)
+#### `colab` [Finetune Llama-3 with LLaMA Factory](https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing)
 
-#### `Blog` [Fine-tuning SmolVLM with TRL](https://huggingface.co/learn/cookbook/en/fine_tuning_smol_vlm_sft_trl)
+#### `blog` [Fine-tuning SmolVLM with TRL](https://huggingface.co/learn/cookbook/en/fine_tuning_smol_vlm_sft_trl)
 
-#### `Blog` [使用 TRL 進行視覺語言模型的偏好優化](https://huggingface.tw/blog/dpo_vlm)
+#### `blog` [使用 TRL 進行視覺語言模型的偏好優化](https://huggingface.tw/blog/dpo_vlm)
 
-#### `Blog` [Advanced GRPO Fine-tuning for Mathematical Reasoning with Multi-Reward Training](https://huggingface.co/learn/cookbook/en/trl_grpo_reasoning_advanced_reward)
+#### `blog` [Advanced GRPO Fine-tuning for Mathematical Reasoning with Multi-Reward Training](https://huggingface.co/learn/cookbook/en/trl_grpo_reasoning_advanced_reward)
 
 ---
 ### Gemma4 
-[Gemma4-e2b Testing](https://www.kaggle.com/code/rkuo2000/gemma4-e2b-testing) <br>
+`kaggle ` [Gemma4-e2b Testing](https://www.kaggle.com/code/rkuo2000/gemma4-e2b-testing) <br>
 
-#### [Gemma4 Creativity Pipeline FineTune](https://www.kaggle.com/code/alinbolcas/gemma4-creativity-pipeline-fine-tune)
+#### `kaggle` [Gemma4 Creativity Pipeline FineTune](https://www.kaggle.com/code/alinbolcas/gemma4-creativity-pipeline-fine-tune)
 <img width="50%" src="https://github.com/AlinBolcas/Gemma4_FineTune_Creativity/blob/main/data/output/visuals/v4/diag_pipeline_flow.png?raw=true">
 
-#### [Gemma4 Finance-Reasoning](https://www.kaggle.com/code/chakrabhuanavdeva/finance-gemma4e2b-001)
+#### `kaggle` [Gemma4 Finance-Reasoning](https://www.kaggle.com/code/chakrabhuanavdeva/finance-gemma4e2b-001)
