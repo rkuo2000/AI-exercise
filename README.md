@@ -84,6 +84,17 @@ Visual-Transformer#### [Steel Defect Detection](https://www.kaggle.com/code/rkuo
 
 ---
 ### Fine-Tune
+
+#### `Colab` [Finetune Llama-3 with LLaMA Factory](https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing)
+
+#### `Blog` [Fine-tuning SmolVLM with TRL](https://huggingface.co/learn/cookbook/en/fine_tuning_smol_vlm_sft_trl)
+
+#### `Blog` [使用 TRL 進行視覺語言模型的偏好優化](https://huggingface.tw/blog/dpo_vlm)
+
+#### `Blog` [Advanced GRPO Fine-tuning for Mathematical Reasoning with Multi-Reward Training](https://huggingface.co/learn/cookbook/en/trl_grpo_reasoning_advanced_reward)
+
+---
+### Gemma4 
 [Gemma4-e2b Testing](https://www.kaggle.com/code/rkuo2000/gemma4-e2b-testing) <br>
 
 #### [Gemma4 Creativity Pipeline FineTune](https://www.kaggle.com/code/alinbolcas/gemma4-creativity-pipeline-fine-tune)
