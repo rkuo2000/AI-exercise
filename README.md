@@ -9,11 +9,18 @@
 #### [CNN_EuroSAT.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/CNN_EuroSAT.ipynb)
 
 ---
-### ResNet50 / ViT
+### ResNet
 
 #### [ResNet50_COVID_19_Detection.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/ResNet50_COVID_19_Detection.ipynb)
 
 #### [ResNet50_Wafer_Map_Recognition.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/ResNet50_Wafer_Map_Recognition.ipynb)
+
+#### [ResNet EuroSAT](https://www.kaggle.com/code/rkuo2000/eurosat-classification)
+
+Visual-Transformer#### [Steel Defect Detection](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
+
+---
+### ViT (Visual Transformer)
 
 #### [ViT Wafer Defect Recognition](https://www.kaggle.com/code/rkuo2000/wafer-defect-recognition-vit)
 
@@ -46,7 +53,6 @@
 
 #### [SAM2 Image](https://www.kaggle.com/code/rkuo2000/sam2-image)
 
-
 ---
 ## Voice/Speech
 
@@ -76,4 +82,11 @@
 
 #### [Llama from scratch](https://www.kaggle.com/code/rkuo2000/llama-from-scratch)
 
+---
+### Fine-Tune
+[Gemma4-e2b Testing](https://www.kaggle.com/code/rkuo2000/gemma4-e2b-testing) <br>
 
+#### [Gemma4 Creativity Pipeline FineTune](https://www.kaggle.com/code/alinbolcas/gemma4-creativity-pipeline-fine-tune)
+![](https://github.com/AlinBolcas/Gemma4_FineTune_Creativity/blob/main/data/output/visuals/v4/diag_pipeline_flow.png?raw=true)
+
+#### [Gemma4 Finance-Reasoning](https://www.kaggle.com/code/chakrabhuanavdeva/finance-gemma4e2b-001)
