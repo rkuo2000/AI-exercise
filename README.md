@@ -44,9 +44,9 @@
 #### `kaggle` [YOLOv7 RefrigFood](https://www.kaggle.com/code/rkuo2000/yolov7-refrigfood)
 
 ---
-### SAM2 (Segment Anything 2)
+### SAM (Segment Anything)
 
-#### `colab` [SAM2 Ultralytics Inference](https://github.com/rkuo2000/AI-exercise/blob/main/colab/SAM2_Ultralytics_inference.ipynb)
+#### `colab` [SAM Ultralytics](https://github.com/rkuo2000/AI-exercise/blob/main/colab/SAM_Ultralytics.ipynb)
 
 ---
 ## Voice/Speech (語音)
