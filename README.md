@@ -1,67 +1,71 @@
 # AI exercise
 
-## Image Classification
+## Image Classification (影像分類)
 
 ### CNN
 
-#### `CNN` [code/mnist.py](https://github.com/rkuo2000/AI-exercise/blob/main/code/mnist.py)
+#### `code` [MNIST CNN](https://github.com/rkuo2000/AI-exercise/blob/main/code/mnist.py)
 
-#### `CNN` [CNN_EuroSAT.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/CNN_EuroSAT.ipynb)
+#### `colab` [EuroSAT CNN](https://github.com/rkuo2000/AI-exercise/blob/main/colab/CNN_EuroSAT.ipynb)
 
 ---
 ### ResNet
 
-#### `ResNet50` [ResNet50_COVID_19_Detection.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/ResNet50_COVID_19_Detection.ipynb)
+#### `colab` [ResNet50 COVID19 Detection](https://github.com/rkuo2000/AI-exercise/blob/main/colab/ResNet50_COVID_19_Detection.ipynb)
 
-#### `ResNet50` [ResNet50_Wafer_Map_Recognition.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/ResNet50_Wafer_Map_Recognition.ipynb)
+#### `colab` [ResNet50 Wafer Map Recognition](https://github.com/rkuo2000/AI-exercise/blob/main/colab/ResNet50_Wafer_Map_Recognition.ipynb)
 
-#### [ResNet EuroSAT](https://www.kaggle.com/code/rkuo2000/eurosat-classification)
-
-### ViT (Visual-Transformer)
-#### `ViT` [Steel Defect Detection](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
+#### `kaggle` [ResNet EuroSAT](https://www.kaggle.com/code/rkuo2000/eurosat-classification)
 
 ---
 ### ViT (Visual Transformer)
+#### `kaggle` [Steel Defect Detection](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
 
 #### `kaggle` [ViT Wafer Defect Recognition](https://www.kaggle.com/code/rkuo2000/wafer-defect-recognition-vit)
 
 ---
-## Object Detection
-
-* Object Detection
-* Pose Estimation
-* Instance Segmentation
-* Semantic Segmentation
-* Oriented Detection
-* Classification
+## Object Detection (物件偵測)
 
 ### YOLOv26
-
-#### `code` [code/cam_yolo.py](https://github.com/rkuo2000/AI-exercise/blob/main/code/cam_yolo.py) 
+*Object Detection, Pose Estimation, Instance Segmentation, Semantic Segmentation, Oriented Detection, Classification* <br>
 ![](https://cdn.jsdelivr.net/gh/ultralytics/assets@main/docs/Ultralytics-YOLO26-Benchmark.jpg)
+
+#### `code` [Cam YOLO](https://github.com/rkuo2000/AI-exercise/blob/main/code/cam_yolo.py) 
 
 ---
 ### YOLOv7
 
-#### `colab` [YOLOv7_Tanks.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/YOLOv7_Tanks.ipynb)
+#### `colab` [YOLOv7 Tanks](https://github.com/rkuo2000/AI-exercise/blob/main/colab/YOLOv7_Tanks.ipynb)
 
-#### `kaggle` [YOLOv7-Tanks](https://www.kaggle.com/code/rkuo2000/yolov7-tanks)
+#### `kaggle` [YOLOv7 Tanks](https://www.kaggle.com/code/rkuo2000/yolov7-tanks)
 
-#### `kaggle` [YOLOv7-Sushi](https://www.kaggle.com/code/rkuo2000/yolov7-sushi)
+#### `kaggle` [YOLOv7 Sushi](https://www.kaggle.com/code/rkuo2000/yolov7-sushi)
 
-#### `kaggle` [YOLOv7-RefrigFood](https://www.kaggle.com/code/rkuo2000/yolov7-refrigfood)
+#### `kaggle` [YOLOv7 RefrigFood](https://www.kaggle.com/code/rkuo2000/yolov7-refrigfood)
 
 ---
 ### SAM2 (Segment Anything 2)
 
-#### `kaggle` [SAM2 Image](https://www.kaggle.com/code/rkuo2000/sam2-image)
+#### `colab` [SAM2 Ultralytics Inference](https://github.com/rkuo2000/AI-exercise/blob/main/colab/SAM2_Ultralytics_inference.ipynb)
 
 ---
-## Voice/Speech
+## Voice/Speech (語音)
 
 ### Text-To-Speech (TTS)
 
-#### `kaggle` [TTS_Kokoro82M.ipynb](https://github.com/rkuo2000/AI-exercise/blob/main/TTS_Kokoro82M.ipynb)
+#### `code`  [Google-TTS](https://github.com/rkuo2000/AI-exercise/blob/main/code/gTTS.py)
+
+#### `code`  [Qwen3-TTS](https://github.com/rkuo2000/AI-exercise/blob/main/code/qwen3_tts.py)
+
+#### `script`  [Edge-TTS](https://github.com/rkuo2000/AI-exercise/blob/main/code/edge_tts.sh)
+
+#### `code`  [Edge-TTS examples](https://github.com/rany2/edge-tts/tree/master/examples)
+
+#### `code`  [Kokoro-TTS](https://github.com/rkuo2000/AI-exercise/blob/main/code/kokoro_tts.py)
+
+#### `colab` [TTS_Kokoro82M](https://github.com/rkuo2000/AI-exercise/blob/main/colab/TTS_Kokoro82M.ipynb)
+
+#### `colab` [OmniVoice](https://github.com/rkuo2000/AI-exercise/blob/main/colab/OmniVoice.ipynb)
 
 #### `kaggle` [Index-TTS2](https://www.kaggle.com/code/rkuo2000/index-tts2)
 
@@ -70,15 +74,35 @@
 ---
 ### Speech-To-Text (STT/ASR)
 
-#### `kaggle` [ASR Whisper](https://www.kaggle.com/code/rkuo2000/asr-whisper)
+#### `code` [Whisper](https://github.com/rkuo2000/AI-exercise/blob/main/code/asr_whisper.py)
 
-#### `kaggle` [Whisper large-v3 turbo](https://www.kaggle.com/code/rkuo2000/whisper-large-v3-turbo)
+#### `code` [Whisper-large-v3](https://github.com/rkuo2000/AI-exercise/blob/main/code/asr_whisper-large-v3.py)
 
-#### `kaggle` [Faster Whisper](https://www.kaggle.com/code/rkuo2000/faster-whisper)
+#### `code` [Faster Whisper](https://github.com/rkuo2000/AI-exercise/blob/main/code/faster-whisper.py)
+
+#### `code` [Omnilingual](https://github.com/rkuo2000/AI-exercise/blob/main/code/asr_omniligual.py)
 
 ---
-## LLM
+### Text-To-Image
 
+#### `code` [Flux.1-dev](https://github.com/rkuo2000/AI-exercise/blob/main/code/T2I_flux.1-dev.py)
+
+#### `code` [SDXL-Lightning-lora](https://github.com/rkuo2000/AI-exercise/blob/main/code/T2I_sdxl-lightning-lora.py)
+
+---
+## LLM (語言模型)
+
+### Chat
+
+#### `code` [Gemini Chat](https://github.com/rkuo2000/AI-exercise/blob/main/code/gemini_chat.py)
+
+#### `code` [Gemini Image](https://github.com/rkuo2000/AI-exercise/blob/main/code/gemini_jpg2csv.py)
+
+#### `code` [Ollama Chat](https://github.com/rkuo2000/AI-exercise/blob/main/code/llm_chat.py)
+
+#### `script` [Ollama Chat](https://github.com/rkuo2000/AI-exercise/blob/main/code/llm_chat.sh)
+
+---
 ### From-Scratch
 
 #### `kaggle` [Llama4 from scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
@@ -90,17 +114,22 @@
 
 #### `colab` [Finetune Llama-3 with LLaMA Factory](https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing)
 
-#### `blog` [Fine-tuning SmolVLM with TRL](https://huggingface.co/learn/cookbook/en/fine_tuning_smol_vlm_sft_trl)
+#### `colab` [SmolVLM with TRL (for ChartQA)](https://github.com/rkuo2000/AI-exercise/blob/main/colab/SmolVLM_TRL_ChartQA.ipynb)
 
-#### `blog` [使用 TRL 進行視覺語言模型的偏好優化](https://huggingface.tw/blog/dpo_vlm)
+#### `colab` [SmolVLM Invoice Parser](https://github.com/rkuo2000/AI-exercise/blob/main/colab/SmolVLM_invoice_parser.ipynb)
 
-#### `blog` [Advanced GRPO Fine-tuning for Mathematical Reasoning with Multi-Reward Training](https://huggingface.co/learn/cookbook/en/trl_grpo_reasoning_advanced_reward)
+#### `colab` [Gemma4-E2B_Text](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Text.ipynb)
 
----
-### Gemma4 
-`kaggle ` [Gemma4-e2b Testing](https://www.kaggle.com/code/rkuo2000/gemma4-e2b-testing) <br>
+#### `colab` [Gemma4-E2B_Audio](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Audio.ipynb)
 
-#### `kaggle` [Gemma4 Creativity Pipeline FineTune](https://www.kaggle.com/code/alinbolcas/gemma4-creativity-pipeline-fine-tune)
-<img width="50%" src="https://github.com/AlinBolcas/Gemma4_FineTune_Creativity/blob/main/data/output/visuals/v4/diag_pipeline_flow.png?raw=true">
+#### `colab` [Gemma4-E2B_Vision](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Vision.ipynb)
 
 #### `kaggle` [Gemma4 Finance-Reasoning](https://www.kaggle.com/code/chakrabhuanavdeva/finance-gemma4e2b-001)
+
+---
+### VLA 
+
+#### `code` [OpenVLA](https://github.com/rkuo2000/AI-exercise/blob/main/code/open_vla.py)
+
+#### `code` [Gemma4_VLA](https://github.com/rkuo2000/AI-exercise/blob/main/code/gemma4_vla.py)
+
