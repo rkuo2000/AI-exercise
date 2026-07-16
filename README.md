@@ -69,7 +69,7 @@
 
 #### `colab` [Index-TTS2](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Index-TTS2.ipynb)
 
-#### `colab` [Spark-TTS](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Spark-TTS.ipynb)
+#### `kaggle` [Spark-TTS](https://kaggle.com/code/rkuo2000/Spark-TTS)
 
 ---
 ### Speech-To-Text (STT/ASR)
