@@ -67,9 +67,9 @@
 
 #### `colab` [OmniVoice](https://github.com/rkuo2000/AI-exercise/blob/main/colab/OmniVoice.ipynb)
 
-#### `kaggle` [Index-TTS2](https://www.kaggle.com/code/rkuo2000/index-tts2)
+#### `colab` [Index-TTS2](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Index-TTS2.ipynb)
 
-#### `kaggle` [Spark-TTS](https://www.kaggle.com/code/rkuo2000/spark-tts)
+#### `colab` [Spark-TTS](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Spark-TTS.ipynb)
 
 ---
 ### Speech-To-Text (STT/ASR)
