@@ -1,0 +1,6 @@
+train: /home/rkuo/.cache/kagglehub/datasets/rkuo2000/tank-by-s-danish/versions/1/train/images
+val: /home/rkuo/.cache/kagglehub/datasets/rkuo2000/tank-by-s-danish/versions/1/valid/images
+test: /home/rkuo/.cache/kagglehub/datasets/rkuo2000/tank-by-s-danish/versions/1/test/images
+
+nc: 3
+names: ['tank', 'vehicle', 'wqw']
