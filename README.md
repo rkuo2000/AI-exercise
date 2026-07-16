@@ -35,6 +35,8 @@
 
 #### `code` [Cam YOLO](https://github.com/rkuo2000/AI-exercise/blob/main/code/cam_yolo.py) 
 
+#### `colab` [YOLO26 Tanks](https://github.com/rkuo2000/AI-exercise/blob/main/colab/YOLO26_Tanks.ipynb)
+
 ---
 ### YOLOv7
 
