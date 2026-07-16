@@ -2,6 +2,11 @@
 
 ## Image Classification (影像分類)
 
+### DNN
+
+#### `kaggle` [Induction Motor Faults Detection](https://www.kaggle.com/code/rkuo2000/induction-motor-faults-detection)
+
+---
 ### CNN
 
 #### `code` [MNIST CNN](https://github.com/rkuo2000/AI-exercise/blob/main/code/mnist.py)
