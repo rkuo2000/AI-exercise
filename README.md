@@ -19,7 +19,7 @@
 ### ViT (Visual Transformer)
 #### `kaggle` [Steel Defect Detection](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
 
-#### `kaggle` [ViT Wafer Defect Recognition](https://www.kaggle.com/code/rkuo2000/wafer-defect-recognition-vit)
+#### `kaggle` [Wafer Defect Recognition](https://www.kaggle.com/code/rkuo2000/wafer-defect-recognition-vit)
 
 ---
 ## Object Detection (物件偵測)
