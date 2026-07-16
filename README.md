@@ -80,7 +80,7 @@
 
 #### `code` [Faster Whisper](https://github.com/rkuo2000/AI-exercise/blob/main/code/faster-whisper.py)
 
-#### `code` [Omnilingual](https://github.com/rkuo2000/AI-exercise/blob/main/code/asr_omniligual.py)
+#### `code` [Omnilingual](https://github.com/rkuo2000/AI-exercise/blob/main/code/asr_omnilingual.py)
 
 ---
 ### Text-To-Image
