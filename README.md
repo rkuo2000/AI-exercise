@@ -15,8 +15,6 @@
 
 #### `colab` [ResNet50 Wafer Map Recognition](https://github.com/rkuo2000/AI-exercise/blob/main/colab/ResNet50_Wafer_Map_Recognition.ipynb)
 
-#### `kaggle` [ResNet EuroSAT](https://www.kaggle.com/code/rkuo2000/eurosat-classification)
-
 ---
 ### ViT (Visual Transformer)
 #### `kaggle` [Steel Defect Detection](https://www.kaggle.com/code/rkuo2000/steel-defect-detection)
