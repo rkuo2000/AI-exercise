@@ -111,7 +111,7 @@
 
 #### `code` [LLMs from scratch](https://github.com/rasbt/LLMs-from-scratch) [`PDF`](https://raw.githubusercontent.com/codewithdark-git/Building-LLMs-from-scratch/379208ccc204218f0ffc9114464b36d96a97505e/Building%20LLMs%20From%20Scratch.pdf) [`YouTube`](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
 
-#### `code` [Reasoning from scratch](https://github.com/rasbt/reasoning-from-scratch) [`YouTube`](https://youtu.be/831MHlz4YrU) ['slide`](https://sebastianraschka.com/pdf/slides/2025-04-llms-whats-next.pdf)
+#### `code` [Reasoning from scratch](https://github.com/rasbt/reasoning-from-scratch) [`YouTube`](https://youtu.be/831MHlz4YrU) [`Slide`](https://sebastianraschka.com/pdf/slides/2025-04-llms-whats-next.pdf)
 
 ---
 ### Fine-Tune
