@@ -108,9 +108,9 @@
 ---
 ### From-Scratch
 
-#### `kaggle` [Llama4 from scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
-
 #### `kaggle` [Llama from scratch](https://www.kaggle.com/code/rkuo2000/llama-from-scratch)
+
+#### `kaggle` [Llama4 from scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
 
 #### `code` [LLMs from scratch](https://github.com/rasbt/LLMs-from-scratch) ~ [`PDF`](https://raw.githubusercontent.com/codewithdark-git/Building-LLMs-from-scratch/379208ccc204218f0ffc9114464b36d96a97505e/Building%20LLMs%20From%20Scratch.pdf) [`YouTube`](https://www.youtube.com/playlist?list=PLTKMiZHVd_2IIEsoJrWACkIxLRdfMlw11)
 
