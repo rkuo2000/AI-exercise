@@ -134,6 +134,8 @@
 
 #### `colab` [Gemma4-E4B_Vision](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E4B_Vision.ipynb)
 
+#### `colab` [Gemma4-E2B_GRPO Sudoku](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_GRPO_Sudoku.ipynb)
+
 #### `kaggle` [Gemma4 Finance-Reasoning](https://www.kaggle.com/code/chakrabhuanavdeva/finance-gemma4e2b-001)
 
 ---
