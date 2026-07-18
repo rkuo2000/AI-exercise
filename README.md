@@ -124,10 +124,6 @@
 
 #### `colab` [Finetune Llama-3 with LLaMA Factory](https://colab.research.google.com/drive/1eRTPn37ltBbYsISy9Aw2NuI2Aq5CQrD9?usp=sharing)
 
-#### `colab` [SmolVLM with TRL (for ChartQA)](https://github.com/rkuo2000/AI-exercise/blob/main/colab/SmolVLM_TRL_ChartQA.ipynb)
-
-#### `colab` [SmolVLM Invoice Parser](https://github.com/rkuo2000/AI-exercise/blob/main/colab/SmolVLM_invoice_parser.ipynb)
-
 **[Unsloth Notebooks](https://unsloth.ai/docs/get-started/unsloth-notebooks)**<br>
 
 #### `colab` [Gemma4-E2B_Text](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Text.ipynb)
@@ -136,7 +132,7 @@
 
 #### `colab` [Gemma4-E2B_GRPO Sudoku](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_GRPO_Sudoku.ipynb)
 
-#### `kaggle` [Gemma4 Finance-Reasoning](https://www.kaggle.com/code/chakrabhuanavdeva/finance-gemma4e2b-001)
+#### `colab` [Gemma4 Finance-Reasoning](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Finance_Reasoning.ipynb)
 
 ---
 ### VLA 
