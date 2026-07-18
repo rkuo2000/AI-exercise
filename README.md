@@ -126,13 +126,13 @@
 
 **[Unsloth Notebooks](https://unsloth.ai/docs/get-started/unsloth-notebooks)**<br>
 
-#### `colab` [Gemma4-E2B_SFT Text](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_SFT_Text.ipynb)
+#### `colab` [Gemma4-E2B SFT Text](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_SFT_Text.ipynb)
 
-#### `colab` [Gemma4-E4B_SFT Vision](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E4B_SFT_Vision.ipynb)
+#### `colab` [Gemma4-E4B SFT Vision](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E4B_SFT_Vision.ipynb)
 
 #### `colab` [Gemma4 SFT Finance-Reasoning](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_SFT_Finance_Reasoning.ipynb)
 
-#### `colab` [Gemma4-E2B_GRPO Sudoku](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_GRPO_Sudoku.ipynb)
+#### `colab` [Gemma4-E2B GRPO Sudoku](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_GRPO_Sudoku.ipynb)
 
 ---
 ### VLA 
