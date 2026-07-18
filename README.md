@@ -130,7 +130,7 @@
 
 **[Unsloth Notebooks](https://unsloth.ai/docs/get-started/unsloth-notebooks)**<br>
 
-#### `colab` [Gemma4-E2B_Text](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4_E2B_Text.ipynb)
+#### `colab` [Gemma4-E2B_Text](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Text.ipynb)
 
 #### `colab` [Gemma4-E2B_Audio](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Audio.ipynb)
 
