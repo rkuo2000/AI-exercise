@@ -132,12 +132,6 @@
 
 #### `colab` [Gemma4-E2B_Text](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Text.ipynb)
 
-#### `colab` [Gemma4-E2B_Audio](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Audio.ipynb)
-
-#### `colab` [Gemma4-E2B_Vision](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_Vision.ipynb)
-
-#### `colab` [Gemma4-E2B RL Sudoku](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_RL_Sudoku.ipynb)
-
 #### `kaggle` [Gemma4 Finance-Reasoning](https://www.kaggle.com/code/chakrabhuanavdeva/finance-gemma4e2b-001)
 
 ---
