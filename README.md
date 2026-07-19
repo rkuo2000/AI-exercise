@@ -43,11 +43,7 @@
 
 #### `colab` [YOLOv7 Tanks](https://github.com/rkuo2000/AI-exercise/blob/main/colab/YOLOv7_Tanks.ipynb)
 
-#### `kaggle` [YOLOv7 Tanks](https://www.kaggle.com/code/rkuo2000/yolov7-tanks)
-
-#### `kaggle` [YOLOv7 Sushi](https://www.kaggle.com/code/rkuo2000/yolov7-sushi)
-
-#### `kaggle` [YOLOv7 RefrigFood](https://www.kaggle.com/code/rkuo2000/yolov7-refrigfood)
+#### `colab` [YOLOv7 Sushi](https://github.com/rkuo2000/AI-exercise/blob/main/colab/YOLOv7_Sushi.ipynb)
 
 ---
 ### SAM (Segment Anything)
