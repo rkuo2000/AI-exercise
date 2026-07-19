@@ -109,7 +109,7 @@
 #### `script` [Ollama Chat](https://github.com/rkuo2000/AI-exercise/blob/main/code/llm_chat.sh)
 
 ---
-### From-Scratch
+### from-Scratch
 
 #### `colab` [Building GPT from Scratch](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Building_GPT_from_Scratch.ipynb)
 
