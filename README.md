@@ -113,6 +113,8 @@
 
 #### `colab` [Building GPT from Scratch](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Building_GPT_from_Scratch.ipynb)
 
+#### `colab` [GPT from Scratch](https://github.com/rkuo2000/AI-exercise/blob/main/colab/GPT_from_Scratch.ipynb)
+
 #### `kaggle` [Llama from scratch](https://www.kaggle.com/code/rkuo2000/llama-from-scratch)
 
 #### `kaggle` [Llama4 from scratch](https://www.kaggle.com/code/rkuo2000/llama4-from-scratch)
