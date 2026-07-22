@@ -16,6 +16,8 @@
 ---
 ### ResNet
 
+#### `colab` [EuroSAT ResNet18](https://github.com/rkuo2000/AI-exercise/blob/main/colab/EuroSAT_ResNet18.ipynb)
+
 #### `colab` [ResNet50 COVID19 Detection](https://github.com/rkuo2000/AI-exercise/blob/main/colab/ResNet50_COVID_19_Detection.ipynb)
 
 #### `colab` [ResNet50 Wafer Map Recognition](https://github.com/rkuo2000/AI-exercise/blob/main/colab/ResNet50_Wafer_Map_Recognition.ipynb)
