@@ -11,7 +11,7 @@
 
 #### `code` [MNIST CNN](https://github.com/rkuo2000/AI-exercise/blob/main/code/mnist.py)
 
-#### `colab` [EuroSAT CNN](https://github.com/rkuo2000/AI-exercise/blob/main/colab/CNN_EuroSAT.ipynb)
+#### `colab` [EuroSAT CNN](https://github.com/rkuo2000/AI-exercise/blob/main/colab/EuroSAT_CNN.ipynb)
 
 ---
 ### ResNet
