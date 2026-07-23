@@ -130,6 +130,8 @@
 
 #### `colab` [Gemma4-E2B SFT Text](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_SFT_Text.ipynb)
 
+#### `colab` [Gemma4-E2B SFT Audio](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E2B_SFT_Audio.ipynb)
+
 #### `colab` [Gemma4-E4B SFT Vision](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemma4-E4B_SFT_Vision.ipynb)
 
 #### `colab` [Gemma4-E2B SFT Finance-Reasoning](https://github.com/rkuo2000/AI-exercise/blob/main/colab/Gemm4-E2B_SFT_Finance-Reasoning.ipynb)
