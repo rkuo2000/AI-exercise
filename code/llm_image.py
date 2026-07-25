@@ -3,7 +3,7 @@ import base64
 from openai import OpenAI
 
 client = OpenAI(
-#        base_url='http://192.168.0.22:11434/v1',
+#        base_url='http://192.168.0.16:11434/v1', # OLLAMA_HOST=0.0.0.0:11434
         base_url='http://localhost:11434/v1',
         api_key="ollama"
 )
@@ -20,7 +20,8 @@ image_path = "./image/LaTeX_ocr.png"
 base64_image = encode_image(image_path)
 
 response = client.chat.completions.create(
-    model='gemma4:e2b',        
+#   model='gemma4:e2b',  # >7.2GB VRAM required
+    model='gemma4:e4b',  # >9.6GB VRAM required
     messages=[
         {
             "role": "user",
