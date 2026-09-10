@@ -1,5 +1,7 @@
 # AI exercise
 
+## [Ollama之使用](https://github.com/rkuo2000/AI-exercise/blob/main/ollama.md)
+
 ## Image Classification (影像分類)
 
 ### DNN
