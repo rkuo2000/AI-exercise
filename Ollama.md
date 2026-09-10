@@ -34,13 +34,14 @@ ollama [command]: <br>
 ### Ex.
 * download model : `ollama pull gemma4:e4b`
 * list models : `ollama list`
-* remove a model : `ollama rm gemma4:e4b`
-* run  model : `ollama run gemma4:e4b --verbose`
+* remove model : `ollama rm gemma4:e4b`
+* run model : `ollama run gemma4:e4b --verbose`
 * check process : `ollama ps`
 ```
 NAME          ID              SIZE      PROCESSOR    CONTEXT    UNTIL              
 gemma4:e4b    7fbdbf8f5e45    1.9 GB    100% GPU     32768      4 minutes from now 
 ```
+* stop process : `ollama stop gemma4:e4b` <br>
 
 #### Launch IDEs
 `ollama launch opencode --model gemma4:e4b` <br>
