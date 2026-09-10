@@ -1,6 +1,6 @@
 # AI exercise
 
-## [Ollama之使用](https://github.com/rkuo2000/AI-exercise/blob/main/Ollama.md)
+## [Ollama](https://github.com/rkuo2000/AI-exercise/blob/main/Ollama.md)
 
 ## Image Classification (影像分類)
 
