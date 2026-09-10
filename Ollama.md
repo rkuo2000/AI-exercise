@@ -42,11 +42,10 @@ NAME          ID              SIZE      PROCESSOR    CONTEXT    UNTIL
 gemma4:e4b    7fbdbf8f5e45    1.9 GB    100% GPU     32768      4 minutes from now 
 ```
 * stop running model : `ollama stop gemma4:e4b` <br>
-
-#### Launch IDEs
-`ollama launch opencode --model gemma4:e4b` <br>
-`ollama launch claude` <br>
-`ollama launch hermes` <br>
+* Launch IDEs
+  - `ollama launch opencode --model gemma4:e4b` 
+  - `ollama launch claude` 
+  - `ollama launch hermes` 
 
 ---
 ### Create Model
