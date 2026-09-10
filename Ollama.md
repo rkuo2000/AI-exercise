@@ -49,8 +49,7 @@ gemma4:e4b    7fbdbf8f5e45    1.9 GB    100% GPU     32768      4 minutes from n
 
 ---
 ### Create Model
-
-#### adjust Context-Size
+#### adjust context length
 edit Modelfile <br>
 ```
 FROM gemma4:e4b
